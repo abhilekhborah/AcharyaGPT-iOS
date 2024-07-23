@@ -1,1 +1,3 @@
 # AcharyaGPT-iOS
+
+Unlocking the Ancient Wisdom of Ayurveda, Your gateway to personalized healing...
